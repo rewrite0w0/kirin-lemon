@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkirin_lemon=self.webpackChunkkirin_lemon||[]).push([[520],{520:function(e){e.exports=JSON.parse('{"allTagsPath":"/kirin-lemon/blog/tags","name":"hello","count":2,"permalink":"/kirin-lemon/blog/tags/hello"}')}}]);
