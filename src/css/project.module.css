@@ -1,0 +1,53 @@
+:root {
+  --kirin: #22a9c7;
+  --lemon: #f9e133;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  margin: 0.5rem;
+  margin-left: 0;
+}
+
+.previewContainer {
+  margin-right: 1rem;
+}
+
+.preview {
+  width: 14rem;
+  height: 10rem;
+  border-radius: 0.25rem;
+  border: 0.125rem solid #e8e8e8;
+}
+
+.contents {
+  flex: 2 1;
+}
+
+.description {
+  font-size: 1.25rem;
+}
+
+.titleContainer {
+  display: flex;
+  flex-direction: 'row';
+}
+
+.linkContainer {
+  display: flex;
+}
+
+.links {
+  margin-right: 0.5rem;
+  padding: 0.5rem 0.7rem;
+  color: skyblue;
+}
+
+.stacks {
+  margin-right: 0.5rem;
+  background-color: var(--lemon);
+  border-radius: 1rem;
+  padding: 0.25rem 1rem 0.25rem 1rem;
+  color: var(--kirin);
+}
