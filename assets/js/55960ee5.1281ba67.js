@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkirin_lemon=self.webpackChunkkirin_lemon||[]).push([[121],{8070:function(n){n.exports=JSON.parse('[{"name":"Demo","permalink":"/kirin-lemon/docs/tags/demo","count":1},{"name":"test","permalink":"/kirin-lemon/docs/tags/test","count":1},{"name":"la","permalink":"/kirin-lemon/docs/tags/la","count":1}]')}}]);
