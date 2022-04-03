@@ -10,7 +10,7 @@ export const project = [
     stack: ['React-Native'],
   },
   {
-    title: '메일주문프로그램',
+    title: '메일 주문 프로그램',
     description: '네이버 스마트 스토어 페이지 병용 프로그램',
     img: 'img/mailOrder.png',
     codeLink: '',
@@ -29,8 +29,8 @@ export const project = [
   },
   {
     title: '포트폴리오',
-    description: '포트폴리오',
-    img: 'img/rw.png',
+    description: "rewrite0w0's portfoilo ",
+    img: 'img/portfolio.png',
     codeLink: 'https://github.com/rewrite0w0/kirin-lemon',
     liveLink: 'https://rewrite0w0.github.io/kirin-lemon',
     report: '',
