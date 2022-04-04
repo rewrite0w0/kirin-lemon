@@ -21,7 +21,7 @@ export const Project = ({
       </div>
       <div className={projectStyles.contents}>
         <div className={projectStyles.titleContainer}>
-          <h4>{title}</h4>
+          <h2>{title}</h2>
         </div>
         <div>
           {description ? (

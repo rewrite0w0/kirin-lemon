@@ -33,11 +33,18 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'rewrite0w0',
+        title: '',
         logo: {
           alt: 'My Site Logo',
           src: 'img/rw.svg',
         },
+        items: [
+          {
+            to: 'https://rewrite0w0.github.io/La-viva-es-Sueno/blog',
+            label: '블로그',
+            position: 'left',
+          },
+        ],
       },
       footer: {
         style: 'light',

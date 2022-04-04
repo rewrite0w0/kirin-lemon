@@ -29,7 +29,7 @@ export const project = [
   },
   {
     title: '포트폴리오',
-    description: "rewrite0w0's portfoilo ",
+    description: "rewrite0w0's portfolio",
     img: 'img/portfolio.png',
     codeLink: 'https://github.com/rewrite0w0/kirin-lemon',
     liveLink: 'https://rewrite0w0.github.io/kirin-lemon',

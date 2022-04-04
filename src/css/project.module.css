@@ -15,8 +15,8 @@
 }
 
 .preview {
-  width: 14rem;
-  height: 10rem;
+  width: 10vw;
+  height: 20vh;
   border-radius: 0.25rem;
   border: 0.125rem solid #e8e8e8;
 }
