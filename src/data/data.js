@@ -2,7 +2,7 @@ export const project = Object.freeze([
   {
     title: '오늘뭐하지?',
     description: 'React Native 기반 메모장',
-    img: 'img/onulmohaji.png',
+    img: 'img/onul_mohaji.png',
     codeLink: 'https://github.com/rewrite0w0/onulmohaji',
     liveLink:
       'https://play.google.com/store/apps/details?id=com.react_native_todo_list',
