@@ -7,9 +7,9 @@ description: 오늘뭐하지?
 
 ## 개요
 
-[![image](/img/onulmohaji.png)](https://play.google.com/store/apps/details?id=com.react_native_todo_list)
+![onulmohaji](/img/onulmohaji.png)
 
-메모장 애플리케이션
+[메모장 애플리케이션](https://play.google.com/store/apps/details?id=com.react_native_todo_list)
 
 ## 환경
 
