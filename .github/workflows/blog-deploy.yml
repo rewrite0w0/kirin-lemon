@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  blog-deploy:
+  deploy:
     name: deploy to github pages
     runs-on: ubuntu-latest
     steps:
