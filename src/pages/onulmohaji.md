@@ -9,7 +9,7 @@ description: 오늘뭐하지?
 
 <!-- 이미지 -->
 
-[![image](/img/onulmohaji.png)](https://play.google.com/store/apps/details?id=com.react_native_todo_list)
+<!-- [![image](/img/onulmohaji.png)](https://play.google.com/store/apps/details?id=com.react_native_todo_list) -->
 
 메모장 애플리케이션
 
