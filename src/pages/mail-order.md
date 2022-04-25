@@ -32,3 +32,12 @@ description: 메일주문프로그램
 - jsdelivr으로 woff 폰트 제공받음
 - 사용자가 입력한 data을 backend로 전달
 - data를 가공해 사업자 메일로 발송
+
+## 특이사항
+
+![step1](/img/mailorder/step1.jpg)
+![step2](/img/mailorder/step2.jpg)
+![step3](/img/mailorder/step3.jpg)
+![step4](/img/mailorder/step4.jpg)
+
+[사업자](https://smartstore.naver.com/jinseongdesign)가 일신 상의 이유로 휴업상태이므로 이미지 게시

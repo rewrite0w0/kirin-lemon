@@ -1,4 +1,4 @@
-export const project = [
+export const project = Object.freeze([
   {
     title: '오늘뭐하지?',
     description: 'React Native 기반 메모장',
@@ -25,7 +25,7 @@ export const project = [
     codeLink: '',
     liveLink: 'https://www.youtube.com/watch?v=6vx_JwwLTXQ',
     report: 'mario',
-    stack: ['ROS/kinetic', 'C/C++', 'Raspberry Pi', 'OpenGL'],
+    stack: ['Raspberry Pi', 'OpenGL'],
   },
   {
     title: '포트폴리오',
@@ -36,4 +36,4 @@ export const project = [
     report: '',
     stack: ['React'],
   },
-];
+]);
