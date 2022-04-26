@@ -6,6 +6,13 @@ updates:
     directory: '/'
     # Check the npm registry for updates every day (weekdays)
     schedule:
+      timezone: 'Asia/Seoul'
       interval: 'daily'
+      time: '13:00'
     assignees:
       - 'rewrite0w0'
+    commit-message:
+      prefix: 'npm'
+      include: 'scope'
+    milestone: 5
+    open-pull-request-limit: 10
