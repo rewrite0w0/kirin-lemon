@@ -15,4 +15,4 @@ updates:
       prefix: 'npm'
       include: 'scope'
     milestone: 5
-    open-pull-request-limit: 10
+    open-pull-requests-limit: 10
