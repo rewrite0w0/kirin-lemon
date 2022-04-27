@@ -8,7 +8,7 @@ updates:
     schedule:
       timezone: 'Asia/Seoul'
       interval: 'daily'
-      time: '13:00'
+      time: '19:00'
     assignees:
       - 'rewrite0w0'
     commit-message:
