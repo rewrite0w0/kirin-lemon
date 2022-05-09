@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkirin_lemon=self.webpackChunkkirin_lemon||[]).push([[272],{6367:function(n){n.exports=JSON.parse('{"label":"docusaurus","permalink":"/kirin-lemon/blog/tags/docusaurus","allTagsPath":"/kirin-lemon/blog/tags","count":4}')}}]);
